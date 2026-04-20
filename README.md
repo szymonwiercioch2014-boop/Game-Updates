@@ -1,2 +1,2 @@
 # Game-Updates
-This GitHub page is dedicated to updates for the game Spring Arcade. Here you will find the latest changes, improvements, bug fixes, and new features being added to the game.
+check the update version in the updates section in the game and compare it with the file (UPDATE VERSION). If the contents are the same, do not download the update.
